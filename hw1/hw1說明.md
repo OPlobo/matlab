@@ -18,7 +18,7 @@
 
 ### 縮放
 * 原圖
-<img src='https://github.com/OPlobo/matlab/blob/main/hw1/img1/001.jpg' height=250 weight =250>
+<img src='https://github.com/OPlobo/matlab/blob/main/hw1/img1/001.jpg'>
 
 [程式碼(縮放)](https://github.com/OPlobo/matlab/blob/main/hw1/%E7%B8%AE%E6%94%BE.m)
 
@@ -30,5 +30,5 @@
 
 > 縮小兩倍
 
-<img src='https://github.com/OPlobo/matlab/blob/main/hw1/img1/Figure%203%202021_3_11%20%E4%B8%8B%E5%8D%88%2002_10_06.png' height=250 weight =250>
+<img src='https://github.com/OPlobo/matlab/blob/main/hw1/img1/Figure%203%202021_3_11%20%E4%B8%8B%E5%8D%88%2002_10_06.png' >
 
