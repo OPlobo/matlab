@@ -32,3 +32,4 @@
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw1/img1/Figure%203%202021_3_11%20%E4%B8%8B%E5%8D%88%2002_10_06.png' >
 
+### [參考資料](https://github.com/OPlobo/matlab/blob/main/hw1/%E6%97%8B%E8%BD%89.m)
