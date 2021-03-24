@@ -1,5 +1,7 @@
 ### Fourier transform
 
+[程式碼(Fourier transform)](https://github.com/OPlobo/matlab/blob/main/hw3/ex3_1.m)
+
 * 原圖
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/006.jpg' height=450 weight =450>
@@ -21,6 +23,8 @@
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E6%88%90%E5%93%81.jpg' height=450 weight =450>
 
 ### filter noise
+
+[程式碼(filter noise)](https://github.com/OPlobo/matlab/blob/main/hw3/ex3_2.m)
 
 * 加雜訊
 
