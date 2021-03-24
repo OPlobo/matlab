@@ -18,7 +18,7 @@
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E9%81%8E%E6%BF%BE%E4%BD%8E%E9%A0%BB.jpg' height=450 weight =450>
 
-* 成品
+* 成品(圖有點不清楚)
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E6%88%90%E5%93%81.jpg' height=450 weight =450>
 
@@ -38,6 +38,6 @@
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E9%81%8E%E6%BF%BE%E9%AB%98%E9%A0%BB.jpg' height=450 weight =450>
 
-* 去雜訊
+* 去雜訊(圖有點跑掉)
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E5%8E%BB%E9%9B%9C%E8%A8%8A.jpg' height=450 weight =450>
