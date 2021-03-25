@@ -21,12 +21,11 @@ for i = 1:h
         d = sqrt((i-x1)^2 + (j-x2)^2);
         % d > d0 把中心低頻部分設為0
         % d < d0 把中心外面高頻部分設為0
-        if d > d0 
-            c = 1;
+        if d < d0 
+            F1(i,j) = 0;
         else
-            c = 0;
+            F1(i,j) = F1(i,j);
         end
-        F1(i,j) = c * F1(i,j); %遮住的地方設為0
     end
 end
 figure
