@@ -41,3 +41,6 @@
 * 去雜訊
 
 <img src='https://github.com/OPlobo/matlab/blob/main/hw3/img3/%E5%8E%BB%E9%9B%9C%E8%A8%8A.png' height=450 weight =450>
+
+### 參考資料:影像處理課
+[課堂助教網頁](https://hackmd.io/@9fZLy6I-S82L3gyRgVyOWg/SJwxra-N_)
