@@ -15,7 +15,7 @@ imshow(0.1*log(1+abs(F1))); %做log轉換
 [h,w] = size(F1);
 x1= floor(h/2);
 x2 = floor(w/2);
-d0 = 20; %半徑
+d0 = 30; %半徑
 for i = 1:h
     for j = 1:w
         d = sqrt((i-x1)^2 + (j-x2)^2);
